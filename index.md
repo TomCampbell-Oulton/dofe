@@ -38,6 +38,14 @@ The first Archbishop of Canterbury, Augustine, arrived in Kent as a missionary i
 
 Translated as 'village on rough ground', Chartham is in the Canterbury district and the river Stour passes through both the village and the city. Chartham Mill has provided employment in paper making since 1738.
 
+## Dane John Mound
+
+![](https://upload.en.wikipedia.org/wiki/File:Canterbury_Park.jpg)
+
+    coords: 51.275236, 1.078478
+    
+The name 'Dane John' comes from the Norman word 'Donjon', which means a fortified mound.
+
 ## The House of Agnes
 
     coords: 51.2824, 1.07365
