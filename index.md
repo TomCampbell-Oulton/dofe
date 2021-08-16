@@ -70,6 +70,12 @@ Once a popular seaside resort where Victorians came to take the air, where day-t
 
 St Eanswythe, patron saint of Folkestone, was the granddaughter of the first English king to convert to Christianity. It was recently confirmed that her bones are still preserved in the Church of St Mary and St Eanswythe. By the late-nineteenth century this small fishing village had reinvented itself as a seaside resort, nicknamed ‘Fashionable Folkestone’.  
 
+## Umble Ome
+![](https://upload.https://forum.jstor.org/#/projects/75476/edit/30322476?query=30322476%20&filter=[]&sort=id&dir=DESC&start=0&limit=100)
+    coords: 51.276270, 1.087550
+    
+Umble Ome of Uriah Heep is a fictional house belonging to the character Uriah Heep in the novel David Copperfield by Charles Dickens, written in 1850.
+
 ## Whitstable
 
 ![](https://upload.wikimedia.org/wikipedia/commons/b/b5/Whitstable_Harbour%2C_Kent%2C_UK.jpg)
