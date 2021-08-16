@@ -76,7 +76,15 @@ Once a popular seaside resort where Victorians came to take the air, where day-t
 
     coords: 51.081389, 1.164722
 
-St Eanswythe, patron saint of Folkestone, was the granddaughter of the first English king to convert to Christianity. It was recently confirmed that her bones are still preserved in the Church of St Mary and St Eanswythe. By the late-nineteenth century this small fishing village had reinvented itself as a seaside resort, nicknamed ‘Fashionable Folkestone’.  
+St Eanswythe, patron saint of Folkestone, was the granddaughter of the first English king to convert to Christianity. It was recently confirmed that her bones are still preserved in the Church of St Mary and St Eanswythe. By the late-nineteenth century this small fishing village had reinvented itself as a seaside resort, nicknamed ‘Fashionable Folkestone’. 
+
+## Umble Ome of Uriah Heep
+
+![]()
+
+    coords: 51.276272, 1.087550
+
+Umble Ome of Uriah Heep is the house belonging to a fictional character in the novel David Copperfield, written by Charles Dickens in 1850.
 
 ## Whitstable
 
