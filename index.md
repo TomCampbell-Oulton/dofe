@@ -38,6 +38,14 @@ The first Archbishop of Canterbury, Augustine, arrived in Kent as a missionary i
 
 Translated as 'village on rough ground', Chartham is in the Canterbury district and the river Stour passes through both the village and the city. Chartham Mill has provided employment in paper making since 1738.
 
+## Dane John Mound
+
+![](https://upload.en.wikipedia.org/wiki/File:Canterbury_Park.jpg)
+
+    coords: 51.275236, 1.078478
+    
+The name 'Dane John' comes from the Norman word 'Donjon', which means a fortified mound.
+
 ## The House of Agnes
 
     coords: 51.2824, 1.07365
@@ -68,7 +76,15 @@ Once a popular seaside resort where Victorians came to take the air, where day-t
 
     coords: 51.081389, 1.164722
 
-St Eanswythe, patron saint of Folkestone, was the granddaughter of the first English king to convert to Christianity. It was recently confirmed that her bones are still preserved in the Church of St Mary and St Eanswythe. By the late-nineteenth century this small fishing village had reinvented itself as a seaside resort, nicknamed ‘Fashionable Folkestone’.  
+St Eanswythe, patron saint of Folkestone, was the granddaughter of the first English king to convert to Christianity. It was recently confirmed that her bones are still preserved in the Church of St Mary and St Eanswythe. By the late-nineteenth century this small fishing village had reinvented itself as a seaside resort, nicknamed ‘Fashionable Folkestone’. 
+
+## Umble Ome of Uriah Heep
+
+![](https://upload.forum.jstor.org/#/projects/75476/edit/30322477?query=30322477%20&filter=[]&sort=id&dir=DESC&start=0&limit=100)
+
+    coords: 51.276272, 1.087550
+
+Umble Ome of Uriah Heep is the house belonging to a fictional character in the novel David Copperfield, written by Charles Dickens in 1850.
 
 ## Whitstable
 
